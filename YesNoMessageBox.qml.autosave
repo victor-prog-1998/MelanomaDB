@@ -1,0 +1,6 @@
+import QtQuick.Dialogs 1.2
+
+CustomMessageBox{
+    standardButtons: StandardButton.No | StandardButton.Yes
+    
+}

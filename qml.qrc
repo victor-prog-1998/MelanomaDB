@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomButton.qml</file>
+        <file>MainPage.qml</file>
+        <file>CustomTabButton.qml</file>
+        <file>ImagesListTab.qml</file>
+        <file>ComboBoxWithLabel.qml</file>
+        <file>Properties.js</file>
+        <file>ImagePage.qml</file>
+        <file>Functions.js</file>
+        <file>ImageDescriptionToolbar.qml</file>
+        <file>CustomGroupBox.qml</file>
+        <file>CustomRadioButton.qml</file>
+        <file>CustomMessageBox.qml</file>
+        <file>YesNoMessageDialog.qml</file>
+        <file>TextFieldWithLabel.qml</file>
+        <file>CustomTextField.qml</file>
+        <file>CustomCheckBox.qml</file>
+        <file>icons/combo-box-indicator.png</file>
+        <file>main.cpp</file>
+        <file>Table.qml</file>
+        <file>ImageFeaturesToolbar.qml</file>
+        <file>icons/delete-icon.png</file>
+        <file>ButtonWithIcon.qml</file>
+        <file>ListPopup.qml</file>
+        <file>icons/add-feature-icon.png</file>
+        <file>MarkerDragTool.qml</file>
+        <file>icons/cancel-adding-icon.png</file>
+        <file>icons/invisible-icon.png</file>
+        <file>icons/visible-icon.png</file>
+        <file>icons/palette-icon.png</file>
+        <file>icons/line_width-icon.png</file>
+        <file>icons/collapse-icon.png</file>
+        <file>icons/expand-icon.png</file>
+        <file>icons/drag-icon.png</file>
+        <file>icons/check-icon.png</file>
+        <file>FilterTab.qml</file>
+        <file>FilterTreeView.qml</file>
+        <file>icons/minus-icon.png</file>
+        <file>icons/plus-icon.png</file>
+        <file>QueryTab.qml</file>
+        <file>CustomTextArea.qml</file>
+        <file>icons/application-icon.png</file>
+    </qresource>
+</RCC>
